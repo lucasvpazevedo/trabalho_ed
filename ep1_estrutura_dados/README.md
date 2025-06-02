@@ -34,4 +34,4 @@ make clean
 
 ---
 
-Projeto desenvolvido para a disciplina de Estrutura de Dados - IFES (Campus Serra)
+Projeto desenvolvido para a disciplina de Estrutura de Dados - IFES (Campus Serra) - Lucas Ventorim P. de Azevedo & Italo Cardoso
